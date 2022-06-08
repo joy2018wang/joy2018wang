@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joy2018wang
-- 👀 I’m interested in data scientist and data enginner 
+- 👀 I’m interested in data science and engineering 
 
 
 <!---
